@@ -1,0 +1,5 @@
+kernel/drivers/pinctrl/qcom/pinctrl-spmi-gpio.ko
+kernel/drivers/pinctrl/qcom/pinctrl-spmi-mpp.ko
+kernel/drivers/pinctrl/qcom/pinctrl-bengal.ko
+kernel/drivers/pinctrl/qcom/pinctrl-khaje.ko
+kernel/drivers/pinctrl/qcom/pinctrl-scuba.ko
